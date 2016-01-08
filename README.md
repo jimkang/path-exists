@@ -8,12 +8,12 @@ Seems trivial, but I've copied this to several modules, so I'm packaging it.
 Installation
 ------------
 
-    npm install path-exists
+    npm install object-path-exists
 
 Usage
 -----
 
-    var pathExists = require('path-exists');
+    var pathExists = require('object-path-exists');
 
     var addresses = {
       countries: {

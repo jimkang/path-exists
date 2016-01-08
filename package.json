@@ -1,5 +1,5 @@
 {
-  "name": "path-exists",
+  "name": "object-path-exists",
   "version": "1.0.0",
   "description": "Given an object, tells you if a path through its keys exists. e.g. Is ['countries', 'US', 'states', 'MA', 'cities', 'Somerville'] in an addresses object?",
   "main": "index.js",
